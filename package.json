@@ -21,15 +21,12 @@
     "name": "Juned Chhipa",
     "email": "juned.chhipa@gmail.com"
   },
-  "bugs": {
-    "url": "https://github.com/apexcharts/react-apexcharts/issues"
-  },
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.7"
   },
   "peerDependencies": {
-    "apexcharts": "^3.18.0",
+    "@29aries/react-apexcharts": "^1.0.1",
     "react": ">=0.13"
   },
   "devDependencies": {

@@ -26,7 +26,7 @@
     "prop-types": "^15.5.7"
   },
   "peerDependencies": {
-    "@29aries/apexcharts": "^1.0.36",
+    "@29aries/apexcharts": "^1.0.37",
     "react": ">=0.13"
   },
   "devDependencies": {

@@ -8,7 +8,7 @@
     "build": "concurrently \"rollup -c rollup.config.js\" \"gulp\"",
     "dev-build": "concurrently \"rollup -c rollup.config.js\" \"gulp devBuild\"",
     "test": "jest",
-    "update": "yarn build && git add . && git commit -m 'update' && git push && npm publish && npm version patch"
+    "update": "yarn build && git add . && git commit -m 'update' && git push && npm version patch && npm publish"
   },
   "keywords": [
     "react-charts",
